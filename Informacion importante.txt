@@ -1,0 +1,6 @@
+-Hay que añadir la libreria JavaFx esta es mi ruta(C:\Program Files\JavaFX\javafx-sdk-24.0.1).
+
+-Tambien hay que añadir la ruta del module de JavaFX esta es la mia (--module-path "C:\Program Files\JavaFX\javafx-sdk-24.0.1\lib" --add-modules javafx.controls,javafx.fxml --enable-native-access=javafx.graphics -Xlog:all=off)
+
+-Cuando se ejecuta el proyecto por primera vez la libreria no esta y la ruta del module tampoco.
+
