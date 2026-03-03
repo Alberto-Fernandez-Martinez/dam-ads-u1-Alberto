@@ -1,0 +1,12 @@
+{
+  "Socios": [
+    {
+      "idSocio": "S2",
+      "dni": "584958634G",
+      "nombre": "Pedro",
+      "apellidos": "Garcia",
+      "telefono": "012345456",
+      "email": "Pedro@gmail.com"
+    }
+  ]
+}
